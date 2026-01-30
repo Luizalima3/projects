@@ -1,0 +1,13 @@
+name:
+  compact: Maria Luiza
+  full: Maria Luiza Silva de Lima
+avatar:
+  github: https://github.com/Luizalima3.png
+occupations:
+  - id: 20202370047
+    type: student
+    course: cstsi-jp  # curso-campus (formato unificado)
+    isFinished: false  # true se já concluiu, false se ainda está cursando
+addresses:
+  github: https://github.com/Luizalima3 
+  email: maria.lims.5@ifpb.edu.br
